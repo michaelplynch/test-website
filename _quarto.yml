@@ -8,7 +8,10 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
-  
+      - text: "More"
+        menu:
+          - People/MichaelLynch.qmd
+ 
   body-footer: 
     footer.qmd
 format:
