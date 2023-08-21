@@ -1,1 +1,1 @@
-Sitemap: https://github.com/michaelplynch/test-website/sitemap.xml
+Sitemap: https://michaelplynch.github.io/test-website/sitemap.xml
