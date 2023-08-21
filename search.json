@@ -4,25 +4,25 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2\n\n\n\n\n\n\nknitr::include_graphics('./contents/1.png')\nknitr::include_graphics('./contents/2.png')\nknitr::include_graphics('./contents/3.png')"
-  },
-  {
-    "objectID": "footer.html",
-    "href": "footer.html",
-    "title": "test-website",
-    "section": "",
-    "text": "knitr::include_graphics('./contents/1.png')\n\n\n\nknitr::include_graphics('./contents/2.png')\n\n\n\nknitr::include_graphics('./contents/3.png')\n\n\n\n\n\n\n\n\nknitr::include_graphics('./contents/1.png')\nknitr::include_graphics('./contents/2.png')\nknitr::include_graphics('./contents/3.png')"
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "test-website",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2\n\n\n\n\n\n\nknitr::include_graphics('./contents/1.png')\nknitr::include_graphics('./contents/2.png')\nknitr::include_graphics('./contents/3.png')"
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
   },
   {
     "objectID": "MichaelLynch.html",
     "href": "MichaelLynch.html",
+    "title": "Mr. Michael lynch",
+    "section": "",
+    "text": "Michael is developing methods for multi-omics integration of single cell data from the"
+  },
+  {
+    "objectID": "MichaelLynch.html#mr-michael-lynch",
+    "href": "MichaelLynch.html#mr-michael-lynch",
     "title": "Mr. Michael lynch",
     "section": "",
     "text": "Michael is developing methods for multi-omics integration of single cell data from the"
@@ -40,6 +40,13 @@
     "title": "Mr. Michael lynch",
     "section": "",
     "text": "Michael is developing methods for multi-omics integration of single cell data from the\nfooter.qmd"
+  },
+  {
+    "objectID": "People/MichaelLynch.html#mr-michael-lynch",
+    "href": "People/MichaelLynch.html#mr-michael-lynch",
+    "title": "Mr. Michael lynch",
+    "section": "",
+    "text": "Michael is developing methods for multi-omics integration of single cell data from the"
   },
   {
     "objectID": "People/MichaelLynch.html#links",
