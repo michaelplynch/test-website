@@ -1,9 +1,9 @@
 
-![](./contents/1.png "test1"){width="80"}
+![](./contents/1.png "test1"){width="40"}
 
 
-![](./contents/2.png "test2"){width="80"}
+![](./contents/2.png "test2"){width="40"}
 
 
-![](./contents/3.png "test3"){width="80"}
+![](./contents/3.png "test3"){width="40"}
 
